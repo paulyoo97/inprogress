@@ -11,4 +11,10 @@ st.markdown(
     ''',
     unsafe_allow_html=True)
 
-st.write('A blog in progress...')
+st.markdown(
+    '''
+    <ul style='text-align: center;'>
+    <h6>A blog in progress</h6>
+    </ul>
+    ''',
+    unsafe_allow_html=True)
