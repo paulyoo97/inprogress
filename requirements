@@ -1,0 +1,8 @@
+pandas==1.5.1
+Pillow==9.4.0
+plotly==5.13.0
+streamlit==1.17.0
+streamlit_option_menu
+streamlit_lottie
+pyproj
+openpyxl
