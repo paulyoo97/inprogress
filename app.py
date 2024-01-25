@@ -1,7 +1,4 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
-from PIL import Image
-
 st.set_page_config(page_title='In The Depths', page_icon='', layout='centered')    # layout by default is center.
 
 
